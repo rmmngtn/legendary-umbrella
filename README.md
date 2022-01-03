@@ -44,7 +44,9 @@ npm test
 ​
 ## Screenshots
 
-
+![screenshot1](./images/about.png)
+![screenshot2](./images/portfolio.png)
+![screenshot3](./images/contact.png)
 
 
 
